@@ -2,7 +2,7 @@
  
 Luis Corales, Programacion V
 
-# Instrucciones
+# Instrucciones de los objetos adicionales
 Clickea el interruptor para prender y apagar la luz de la habitación.
 
 ## Nuevos scripts
